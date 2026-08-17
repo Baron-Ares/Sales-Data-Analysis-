@@ -1,73 +1,60 @@
-#Sales Data Analysis & Automated Reporting Dashboard
+#Sales Data Analysis
 
-📊 Project Overview
+About the Project
 
-This project analyzes a dataset of 500 sales transactions using Microsoft Excel. The goal was to clean and organize the data, calculate sales performance, identify trends, and create an automated reporting dashboard that can be updated as new sales data is added.
+This is one of my first data analysis projects using Microsoft Excel.
 
-🛠️ Tools & Skills
+I worked with a sales dataset containing 500 records and used Excel to organize the data, calculate sales, analyze different parts of the dataset, and create a simple report and dashboard.
+
+The main goal was to practice turning raw sales data into information that can be easily understood.
+
+Tools Used
 
 - Microsoft Excel
-- Data cleaning
 - Excel Tables
 - Excel formulas
 - PivotTables
-- Data visualization
-- Dashboard creation
-- Automated reporting
-- Business data analysis
+- Charts and visualizations
 
-📁 Dataset
+Dataset
 
-The dataset contains 500 sales records with information including:
+The dataset contains information about sales transactions, including:
 
-- Order Date
+- Order date
 - Customer
 - Region
-- Product Category
+- Product category
 - Product
 - Quantity
 - Price
 - Discount
 - Salesperson
-- Total Sale
+- Total sale
 
-🔍 Analysis Performed
+What I Did
 
-The project includes analysis of:
+I:
 
-- Overall sales performance
-- Sales by region
-- Sales by product category
-- Monthly sales trends
-- Product performance
-- Key sales performance indicators
+1. Organized the sales data into an Excel Table.
+2. Checked and prepared the data for analysis.
+3. Created a Total Sale calculation.
+4. Analyzed sales across different regions and product categories.
+5. Looked at monthly sales trends.
+6. Created a report sheet with key figures.
+7. Built a dashboard to make the results easier to understand.
 
-A calculated Total Sale field was created to support the analysis.
+Dashboard
 
-📈 Dashboard
+The dashboard gives a quick overview of the sales data and allows the results to be viewed through different charts and summaries.
 
-An Excel dashboard was created to provide a visual summary of the sales data and make important trends easier to identify.
+What I Learned
 
-The report includes key performance indicators and visualizations that allow users to quickly understand sales performance across different regions, categories, products, and time periods.
+This project helped me get more comfortable with Excel and the basic process of data analysis.
 
-🔄 Automated Reporting
+I practiced working with raw data, using formulas, creating PivotTables, building charts, and presenting results in a simple dashboard.
 
-The dataset was structured as an Excel Table so that new records can be incorporated into the reporting workflow without rebuilding the analysis from scratch.
+I am continuing to build my data analysis skills and plan to work with Python and other tools as I progress.
 
-This approach demonstrates how Excel can be used to create repeatable reporting processes for regularly updated datasets.
+Project File
 
-💡 Key Learning Outcomes
-
-Through this project, I practiced:
-
-- Preparing and cleaning real-world-style data
-- Structuring datasets for analysis
-- Using Excel formulas for calculated fields
-- Creating PivotTables and visualizations
-- Building an interactive reporting dashboard
-- Designing a repeatable data-reporting workflow
-- Turning raw data into actionable insights
-
-👤 About Me
-
-I am a Public Health student developing skills in data analysis and biostatistics, with an interest in using data to support better decision-making and solve real-world problems.
+The main Excel workbook contains the dataset, analysis, report, and dashboard.
